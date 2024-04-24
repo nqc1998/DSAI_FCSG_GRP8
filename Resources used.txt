@@ -1,0 +1,7 @@
+https://www.datacamp.com/tutorial/decision-tree-classification-python
+https://www.datacamp.com/tutorial/random-forests-classifier-python
+https://realpython.com/numpy-scipy-pandas-correlation-python/#example-pandas-correlation-calculation
+https://builtin.com/articles/feature-engineering
+https://www.datacamp.com/tutorial/understanding-logistic-regression-python
+https://www.datacamp.com/tutorial/k-nearest-neighbor-classification-scikit-learn
+https://medium.com/@shuv.sdr/na%C3%AFve-bayes-classification-in-python-f869c2e0dbf1
