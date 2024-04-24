@@ -12,10 +12,13 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 8. K Nearest Neighbor
 9. Naive Bayes
 
+### presentation video link 
+- https://youtu.be/a6vLzgBn1PI
+
 ### Contributors
-@lhm - Model (Decision Tree, Random Forest, Logistic Regression)
-@chengrui - Data Exploration, K Nearest Neighbor
-@nqc - Data Visualization, Data Extraction, Naive Bayes
+- @lhm - Model (Decision Tree, Random Forest, Logistic Regression)
+- @chengrui - Data Exploration, K Nearest Neighbor
+- @nqc - Data Visualization, Data Extraction, Naive Bayes
 
 ### Problem Definition
 - Uses historical data and relevant predictors to accurately identify students at risk of dropping out from an educational institution
